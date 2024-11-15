@@ -1,0 +1,12 @@
+body{text-align: center; background-image: radial-gradient(circle, #29021a, #601a3e, #4b0076, #4683b7, #0e4d92, #592693, #311465, #a45ee9, #0d52bd, #000080, #1035ac, #4b0076, #101db6, #003152, #0147ab); background-repeat: repeat ; font-family: cursive; background-repeat: no-repeat; background-position: !important}
+h1{color:#d1e5f4; text-align: center; font-size: 50px}
+h2{color: #9abddc}
+h3{color: #9abddc}
+h4{color: #9abddc; text-align: center; margin: auto;}
+h5{color: #0000}
+img{height: 150 px; width: 150 px; margin: auto; border-radius: 5%}
+comment{margin: auto}
+#hp{color: #3d2d13; text-align: center}
+.column{float: auto; width: 10%;}
+.form-group{text-align: left; color: #9abddc}
+.comment{text-align: left}
